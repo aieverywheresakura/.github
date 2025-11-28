@@ -1,12 +1,53 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0a3d28ec-05c6-4ee2-88c3-fde4bd6bdae6" alt="AI Everywhere LOGO" width="400"/>
+</div>
 
-<!--
+# 北京紫洛兰科技有限公司
+洛兰科技有限公司简介
 
-**Here are some ideas to get you started:**
+**公司名称**：北京紫洛兰科技有限公司  
+**成立时间**：2025年7月14日  
+**所在地**：中国 · 北京  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 公司概况
+
+北京紫洛兰科技有限公司是一家立足北京、面向全球的创新型科技企业。我们致力于以科技之力推动医疗产业变革，立志通过前沿技术与真诚服务，为世界带来更可靠、更有温度的医疗解决方案。
+
+“**紫洛兰**”这一名称，源自紫罗兰花的花语——**永恒的爱与守护**。它不仅代表我们对生命与健康的深切关怀，更象征着我们希望通过科技为医疗注入温情与希望的初心。  
+我们将紫色的智慧、冷静与高贵注入医疗体系，打造兼具技术力量与人文温度的解决方案，用科技连接生命与爱，致力于构建一个更健康、更美好的未来。
+
+---
+
+## 企业愿景
+
+我们致力于**成为引领全球医疗科技革新的核心力量**，以人工智能、大数据、生物工程等前沿技术为基础，打破医疗资源壁垒，让每一个人，无论身处何地，都能平等地享有优质、智能、可持续的健康服务。
+
+我们相信，科技不只是效率的提升，更是人类关爱的延伸。紫洛兰科技立志在全球医疗变革的浪潮中，成为**推动人类健康文明跃迁的关键驱动者**，用爱和技术一起照亮未来。
+
+---
+
+## 核心价值观
+
+- **永恒的爱（Everlasting Compassion）**  
+  灵感源自紫罗兰花语，这是我们的精神象征。我们深知，科技真正的意义在于改善人的生命质量，延续人与人之间的温情。我们将这份爱注入到每一项产品、每一次服务、每一个技术细节中。
+
+- **真诚至上（Radical Sincerity）**  
+  在快速变化的科技时代，我们始终坚持透明、正直与责任。我们相信，唯有建立在信任上的合作，才能创造真正有价值的长期影响。
+
+- **极致可靠（Unshakable Reliability）**  
+  医疗是关乎生命的事业，我们对产品质量和技术安全有着近乎苛刻的要求。每一次创新都建立在深度验证与长期承诺之上，致力于成为全球信赖的健康科技平台。
+
+- **全球视野（Global Responsibility）**  
+  紫洛兰科技不止于中国，更面向全球。我们关注偏远地区、老龄化社会、医疗负担等全人类共同面临的挑战，践行企业社会责任，让科技的红利惠及每一个角落。
+
+---
+
+## 未来展望
+
+作为一家年轻而充满理想的公司，紫洛兰科技正在招募志同道合的伙伴。无论你是技术专家、医疗工作者，还是怀揣理想的创业者，我们欢迎你的加入。我们相信，改变世界的，不只是技术本身，更是那份“爱与真诚”的初心。
+
+> **我们不只是创造医疗技术，而是在创造一个人人都能被关爱、被治愈、被尊重的未来。**
+
+> **紫洛兰科技 —— 用爱与科技连接未来医疗**
