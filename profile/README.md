@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0a3d28ec-05c6-4ee2-88c3-fde4bd6bdae6" 
+  <img width="1024" height="1024" alt="Logo" src="https://github.com/user-attachments/assets/8b5d933a-eb9c-4568-8273-cabf452b9cc9"
        alt="AI Everywhere LOGO" width="400"/>
 </div>
 
